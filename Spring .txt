@@ -1,0 +1,32 @@
+Spring framework
+
+1: A spring container inside this we have as many objects as we want and those objects will 
+be managed by spring container 
+2: Advantages of having objects in spring container is we will see 
+3: the life cycle of a object will be handled by spring container 
+4: The above points We are discussing and you have to remember the xml file of spring 
+5: 
+
+Factory pattern: 
+Oject factory will create the objects and it will product the objects 
+
+Object factory will read the configuration file and create the new object and handled to the 
+other objects 
+
+here the configuration is XML File 
+
+Spring has Spring bean factory 
+
+The bean factory will read from spring XML (configuration file) 
+and the spring bean is created 
+
+Bean Factory --> Bean (beanid) --> Class (service providing class) --> object will be returned 
+
+Now we will code the whole stuff 
+
+Still we have not discussed the dependency injustion but this will be the basic for us 
+
+
+
+
+
